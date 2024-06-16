@@ -21,8 +21,8 @@ Sigue los pasos a continuación para instalar y ejecutar la aplicación:
 1. Clonar el repositorio:
 
    ```bash
-   git clone git@github.com:IonVillarreal/product-gallery.git
-   cd product-gallery
+   git clone https://github.com/HuascarFedor/blognest-app.git
+   cd blognest-app
    ```
 
 2. Instalar las dependencias:
